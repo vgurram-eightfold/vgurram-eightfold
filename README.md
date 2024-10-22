@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Vasu's GitHub stats](https://github-readme-stats.vercel.app/api?username=vgurram-eightfold&count_private=true&show_icons=true&theme=vue-dark)
+
 <!--
 **vgurram-eightfold/vgurram-eightfold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
